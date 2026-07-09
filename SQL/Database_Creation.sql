@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS retail_customer_analytics;
+CREATE DATABASE retail_customer_analytics;
+USE retail_customer_analytics;

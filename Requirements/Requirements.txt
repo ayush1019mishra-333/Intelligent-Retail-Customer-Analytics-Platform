@@ -1,0 +1,10 @@
+pandas  Data manipulation and analysis
+numpy	Numerical operations
+matplotlib	Data visualization
+seaborn	Statistical visualizations
+sqlalchemy	Database connection engine
+mysql-connector-python	MySQL connectivity
+VSCode	Notebook environment
+ipykernel	Jupyter kernel support
+scikit-learn
+MySQL Loading Database and solving queries

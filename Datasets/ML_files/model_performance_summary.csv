@@ -1,0 +1,3 @@
+Model,Algorithm,Primary Metric,Value
+Revenue Prediction,Random Forest Regressor,R² Score,0.7633
+High Value Customer,Random Forest Classifier,F1 Score,0.9391
