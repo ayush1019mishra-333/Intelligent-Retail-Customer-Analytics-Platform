@@ -493,13 +493,6 @@ This dashboard provides a comprehensive overview of retail performance, customer
 
 <img width="1332" height="748" alt="Page1 Dashboard" src="https://github.com/user-attachments/assets/64b8bac7-08a5-4c6c-b2fc-d974accfd350" />
 
-
-```markdown
-<p align="center">
-<img src="Dashboard/Page1 Dashboard.png" width="1000">
-</p>
-```
-
 ### Dashboard Highlights
 
 - 💰 Executive KPI Cards
@@ -518,12 +511,6 @@ This dashboard visualizes predictive analytics, model performance, and actionabl
 
 <img width="1282" height="727" alt="Page2 Dashboard" src="https://github.com/user-attachments/assets/b0e223bb-b1fc-4989-a1db-94aa653b13fe" />
 
-
-```markdown
-<p align="center">
-<img src="Dashboard/Page2 Dashboard.png" width="1000">
-</p>
-```
 
 ### Dashboard Highlights
 
@@ -644,23 +631,6 @@ Based on the analytical findings, the following strategic recommendations are pr
 
 ---
 
-# 🚀 Getting Started
-
-## Clone the Repository
-
-```bash
-git clone https://github.com/ayush1019mishra-333/Intelligent-Retail-Customer-Analytics-Platform.git
-```
-
----
-
-## Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
 
 ## Open the Project
 
